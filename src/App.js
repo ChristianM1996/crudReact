@@ -137,7 +137,6 @@ function App() {
               className={ editMode ? "btn btn-warning btn-block" : "btn btn-dark btn-block"}
               type="submit"
             >
-             Agregar
              { editMode ? "Guardar" : "Agregar" }
             </button>
           </form>
